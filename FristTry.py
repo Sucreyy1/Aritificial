@@ -3,4 +3,4 @@ def asd():
 
 asd()
 
-print('test');
+print('test')
