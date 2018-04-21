@@ -2,4 +2,5 @@ def asd():
     print('this is a test')
 
 asd()
-67
+
+print('test');
